@@ -69,9 +69,41 @@ padding: 10px;
     float: left;
     text-align: center;
     padding: 5px;
-
-
+    
+}
+.project_links {
+    display: block;
+    float: left;
+    text-align: center;
+    padding:10px;
+}
+.html {
+    font-weight: bold;
+    text-decoration: underline;
+}
+.php_project_links {
+    display: block;
+    float: left;
+    text-align: center;
+    padding:10px;
+    padding: 12px;
+    padding-right: 10px;
+    padding-bottom: 4px;
+    margin: 1px;
+    margin-top: 2px;
+   
+     
+}
+.php {
+    font-weight: bold;
+    text-decoration: underline;
     
 
     
+    
+}
+.javascript {
+    display: block;
+    text-align: center;
+    text-decoration: underline;
 }
