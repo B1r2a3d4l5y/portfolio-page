@@ -71,39 +71,89 @@ padding: 10px;
     padding: 5px;
     
 }
-.project_links {
-    display: block;
-    float: left;
-    text-align: center;
-    padding:10px;
-}
 .html {
-    font-weight: bold;
-    text-decoration: underline;
-}
-.php_project_links {
-    display: block;
-    float: left;
+    display: flex;
     text-align: center;
-    padding:10px;
-    padding: 12px;
-    padding-right: 10px;
-    padding-bottom: 4px;
-    margin: 1px;
-    margin-top: 2px;
-   
-     
-}
-.php {
-    font-weight: bold;
     text-decoration: underline;
+    margin: 120px;
+}
+.project_img {
+    position: relative;
+    height: 100px;
+    width: 200px;
+
+}
+.survey {
+    position: relative;
+    height: 100px;
+    width: 200px;
+    
+}
+.login {
+    position: relative;
+    float: left;
+    height: 100;
+    width: 200px ;
+}
+.javascript_header {
+    display: flex;
+     text-decoration: underline;
+     text-align: center;
+     margin: 60px;
+}
+.clock {
+    position: relative;
+    height: 100px;
+    width: 200px;
+}
+.text_game {
+    position: relative;
+    height: 100px;
+    width:200px;
+}
+.fight {
+    position: relative;
+    height: 100px;
+    width: 200px
+}
+.php_header{
+    display: flex;
+    text-align: center;
+    text-decoration: underline;
+    margin: 20px;
+}
+.contact {
+    position: relative;
+    height: 100px;
+    width: 200px;
+}
+.profit {
+    position: relative;
+    height: 100px;
+    width: 200px;
+}
+
+.email {
+    display: block;
+    text-align: center;
+    padding-right: 3px;
+    text-decoration: none;
+    color: black;
+}
+.header {
+    text-decoration: underline;
+}
+
+
+.phone {
+    display: block;
+    text-align: center;
+    padding-right: 5px ;
+    text-decoration: none;
+    color: black;
+}
+    
     
 
+
     
-    
-}
-.javascript {
-    display: block;
-    text-align: center;
-    text-decoration: underline;
-}
