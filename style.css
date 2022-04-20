@@ -116,6 +116,11 @@ padding: 10px;
     height: 100px;
     width: 200px
 }
+.quote {
+    position: relative;
+    height: 100px;
+    width: 200px;
+}
 .php_header{
     display: flex;
     text-align: center;
@@ -141,6 +146,9 @@ padding: 10px;
     color: black;
 }
 .header {
+    text-decoration: underline;
+}
+.hoist_links {
     text-decoration: underline;
 }
 
